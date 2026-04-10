@@ -1,0 +1,7 @@
+**/config.py
+**/*.json
+**/.env
+.venv/
+venv/
+.vscode/
+__pycache__/
